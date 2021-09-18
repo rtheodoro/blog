@@ -6,7 +6,7 @@ author:
   - name: R. Theodoro 
     url: https://linktr.ee/r.theodoro
     affiliation: OBSCOOP/USP
-    affiliation_url: https://linktr.ee/r.theodoro
+    affiliation_url: https://linktr.ee/obscoopusp
 date: 09-18-2021
 output:
   distill::distill_article:
