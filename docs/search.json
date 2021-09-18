@@ -1,11 +1,19 @@
 {
   "articles": [
     {
+      "path": "about.html",
+      "title": "Sobre esse blog",
+      "description": "Objetivo de reunir o que estou aprendendo em R, Python e SQL. Inclusive a fazer este blog.",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-09-18T15:37:56-03:00"
+    },
+    {
       "path": "index.html",
       "title": "blog rtheodoro",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-09-18T15:35:46-03:00"
+      "last_modified": "2021-09-18T15:38:12-03:00"
     }
   ],
   "collections": ["posts/posts.json"]
