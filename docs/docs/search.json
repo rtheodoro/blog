@@ -6,14 +6,14 @@
       "description": "Blog com objetivo de reunir o que estou aprendendo em R, Python e SQL",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-09-18T11:53:32-03:00"
+      "last_modified": "2021-09-18T14:55:14-03:00"
     },
     {
       "path": "index.html",
       "title": "blog rtheodoro",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-09-18T11:53:32-03:00"
+      "last_modified": "2021-09-18T14:55:14-03:00"
     }
   ],
   "collections": ["posts/posts.json"]
