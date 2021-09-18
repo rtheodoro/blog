@@ -2,10 +2,10 @@
   "articles": [
     {
       "path": "index.html",
-      "title": "blog",
+      "title": "rtheodoro blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-09-18T09:53:09-03:00"
+      "last_modified": "2021-09-18T11:22:56-03:00"
     }
   ],
   "collections": ["posts/posts.json"]

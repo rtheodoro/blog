@@ -1,7 +1,7 @@
 ---
-title: "About this blog"
+title: "Sobre o blog"
 description: |
-  Some additional details about the blog
+  Blog com objetivo de reunir o que estou aprendendo em R, Python e SQL
 ---
 
 ```{r setup, include=FALSE}
