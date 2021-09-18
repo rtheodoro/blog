@@ -13,7 +13,7 @@
     "categories": [],
     "contents": "\n\nContents\nInstalando o R\nInstalando o RStudio\n\nInstalando o R\nO primeiro passo é instalar o R Base. Podemos fazer a instalação via terminal com os seguintes comandos (ctrl+alt+t para abrir o terminal):\n\n\nsudo apt update -qq\n\napt install --no-install-recommends software-properties-common dirmngr\n\n# To verify key, run gpg --show-keys /etc/apt/trusted.gpg.d/cran_ubuntu_key.asc \n\nwget -qO- https://cloud.r-project.org/bin/linux/ubuntu/marutter_pubkey.asc | sudo tee -a /etc/apt/trusted.gpg.d/cran_ubuntu_key.asc\n\nadd-apt-repository \"deb https://cloud.r-project.org/bin/linux/ubuntu $(lsb_release -cs)-cran40/\"\n\napt install --no-install-recommends r-base r-base-dev\n\nO R também possui um repositório no Ubuntu, você pode tentar baixá-lo manualmente através da loja de aplicativos do Mint. Ou através do comando sudo apt install r-base r-base-dev.\nVocê pode ter mais detalhes consultando o README completo da instalação em https://cloud.r-project.org/bin/linux/ubuntu/fullREADME.html\nInstalando o RStudio\nO RStudio não possui um repositório para ser adicionado ao sistema, temos que fazer a instalação manual pelo site:\nhttps://www.rstudio.com/products/rstudio/download/#download\nÉ só clickar em rstudio-1.4.1717-amd64.deb, ou na versão mais recente .deb, então será feito o download de um arquivo de instalação. Então é só clickar duas vezes para iniciar a instalação e clickar em avançar até o fim.\nAinda vou melhorar este post, foi só um teste.\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-09-18T14:45:00-03:00",
+    "last_modified": "2021-09-18T15:02:59-03:00",
     "input_file": {}
   },
   {

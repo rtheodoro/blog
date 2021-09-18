@@ -1,0 +1,9 @@
+---
+title: "Sobre o blog"
+description: |
+  Blog com objetivo de reunir o que estou aprendendo em R, Python e SQL
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
