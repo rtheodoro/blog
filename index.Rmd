@@ -1,5 +1,3 @@
 ---
-title: "blog rtheodoro"
-site: distill::distill_website
-listing: posts
+site: blogdown:::blogdown_site
 ---

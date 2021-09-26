@@ -1,9 +1,0 @@
----
-title: "Sobre esse blog"
-description: |
-  Objetivo de reunir o que estou aprendendo em R, Python e SQL. Inclusive a fazer este blog.
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
