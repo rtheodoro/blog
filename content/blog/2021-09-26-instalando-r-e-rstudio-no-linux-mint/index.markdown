@@ -7,9 +7,10 @@ slug: []
 categories: []
 tags: []
 ---
----
+
+
 ![Formspree Logo](linuxmint-logo.png)
----
+
 
 O objetivo desta postagem é ensinar a instalar o R e o RStudio no Linux Mint.
 
