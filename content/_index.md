@@ -2,10 +2,10 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Aqui pretendo compartilhar um pouco de meus conhecimentos e experiência com pesquisas na área de economia e contabilidade sobre cooperativismo e programação voltada para análise de dados.
+description: Aqui pretendo compartilhar um pouco de meus conhecimentos e experiências com pesquisas na àrea de economia e contabilidade sobre cooperativismo e programação voltada para análise de dados.
 image_left: true
 images:
-- img/revoir.jpg
+- img/capa_home.jpg
 show_action_link: true
 show_social_links: true
 subtitle: Meu blog profissional
