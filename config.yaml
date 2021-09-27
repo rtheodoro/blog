@@ -1,8 +1,8 @@
-baseURL: "https://rtheodoro.github.io/"
+baseURL: "https://rtheodoro.github.io/blog/"
 theme: hugo-apero
 languageCode: en
-title: Hugo Apéro
-author: Alison Hill
+title: rtheodoro
+author: Ricardo Theodoro
 copyright: ''
 googleAnalytics: ''
 disqusShortname: ''
