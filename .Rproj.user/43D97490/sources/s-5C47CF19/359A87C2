@@ -3,7 +3,7 @@
     "path": "~/R/blog/content/blog/2021-09-26-instalando-r-e-rstudio-no-linux-mint/index.Rmarkdown",
     "project_path": "content/blog/2021-09-26-instalando-r-e-rstudio-no-linux-mint/index.Rmarkdown",
     "type": "r_markdown",
-    "hash": "1113557565",
+    "hash": "1588499877",
     "contents": "",
     "dirty": false,
     "created": 1632709878553.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "13,0",
+        "cursorPosition": "17,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1632709967,
+    "lastKnownWriteTime": 1632710170,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1632709967127,
+    "last_content_update": 1632710170805,
     "read_only": false,
     "read_only_alternatives": []
 }
