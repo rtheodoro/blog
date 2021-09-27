@@ -33,7 +33,7 @@ params:
   custom_theme: ''
   customheadingFontFamily: Fraunces
   customtextFontFamily: Commissioner
-  description: A modern, beautiful, and easily configurable blog theme for Hugo.
+  description: Blog pessoal ensinando programação para tratamento e análise de dados utilizando R, Python e SQL.
   favicon: /img/favicon.ico
   headingFontFamily: sans-serif
   logo: /img/blogophonic-mark-dark.png
