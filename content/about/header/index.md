@@ -2,11 +2,12 @@
 ## Configure header of page
 text_align_right: false
 show_title_as_headline: false
-headline: |
-  Olá, seja bem-vind@!
+headline: Bem-vind@!
+  
 ---
 
 <!-- this is a subheadline -->
-Eu sou o Ricardo Theodoro. :br: 
 
-Qualquer coisa.Qualquer coisa.Qualquer coisa.Qualquer coisa.Qualquer coisa.Qualquer coisa.Qualquer coisa.Qualquer coisa.Qualquer coisa.Qualquer coisa.Qualquer coisa.Qualquer coisa.Qualquer coisa.Qualquer coisa.Qualquer coisa.Qualquer coisa.
+Blog criado para compartilhar conhecimentos adquiridos em minhas pesquisas sobre cooperativas, mais específicamente sobre como tratar os dados e escrever artigos.
+
+Para isso, utilizarei as linguagens R, Python, SQL e LaTeX.
