@@ -1,13 +1,13 @@
 {
     "dialog-state": {
-        "query": ".knit",
+        "query": "revoir.jpg",
         "path": "",
         "regex": false,
         "caseSensitive": false,
         "wholeWord": false,
         "filePatterns": [],
         "excludeFilePatterns": [],
-        "resultsCount": 4,
+        "resultsCount": 2,
         "errorCount": 0,
         "replaceErrors": "",
         "projectRelative": true
