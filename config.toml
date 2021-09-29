@@ -9,7 +9,7 @@ disqusShortname = "" # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩
 # set deliberately low for testing choose your preffered number based on the blog layout you've chosen
-paginate = 5
+paginate = 24
 preserveTaxonomyNames = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 enableEmoji = true
@@ -28,9 +28,9 @@ enableEmoji = true
     style = "github"
 
 [params]
-  orgName = "RStudio"
-  orgLocal = "Anywhere"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
+  orgName = "rtheodoro"
+  orgLocal = "Brasil"
+  description = "Página inicial."
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
   mainSections = ["blog", "project", "talk"]
@@ -62,7 +62,7 @@ enableEmoji = true
   # sans-serif options: Commissioner / Atkinson Hyperlegible / Metropolis
   # if you import your own fonts, name them here too
   customtextFontFamily = "Commissioner"
-  customheadingFontFamily = "Fraunces"
+  customheadingFontFamily = "Metropolis"
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
   textFontFamily = "sans-serif"
@@ -71,8 +71,8 @@ enableEmoji = true
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
     use_utterances = true
-    repo_name = "apreshill/apero"
-    issue_term = "pathname" # url, pathname, or title
+    repo_name = "rtheodoro/blog"
+    issue_term = "title" # url, pathname, or title
     theme = "boxy-light"
     label = "comments :crystal_ball:"
 
@@ -89,30 +89,34 @@ enableEmoji = true
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://github.com/rtheodoro"
+  #[[params.social]]
+  #    icon      = "facebook-square" # icon name without the 'fa-'
+  #    icon_pack = "fab"
+  #    url       = "https://www.facebook.com/rtheodoro"
+  #[[params.social]]
+  #    icon      = "instagram" # icon name without the 'fa-'
+  #    icon_pack = "fab"
+  #    url       = "https://www.instagram.com/rxtheodoro/"
   [[params.social]]
-      icon      = "facebook-square" # icon name without the 'fa-'
+      icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.facebook.com/rtheodoro"
+      url       = "www.linkedin.com/in/rtheodoro"
   [[params.social]]
-      icon      = "instagram" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.instagram.com/rxtheodoro/"
-  [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://twitter.com/rxtheodoro"
-  [[params.social]]
-      icon      = "impactstory" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "http://lattes.cnpq.br/9903428973435024"
-  [[params.social]]
-      icon      = "orcid" # icon name without the 'fa-'
+      icon      = "lattes" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "https://orcid.org/0000-0001-6741-5153"
   [[params.social]]
-      icon      = "rss" # icon name without the 'fa-'
-      icon_pack = "fas"
-      url       = "/blog/index.xml"
+      icon      = "orcid" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "http://lattes.cnpq.br/9903428973435024"
+  [[params.social]]
+    icon      = "twitter" # icon name without the 'fa-'
+    icon_pack = "fab"
+    url       = "https://twitter.com/rxtheodoro"
+  #[[params.social]]
+  #    icon      = "rss" # icon name without the 'fa-'
+  #    icon_pack = "fas"
+  #    url       = "/blog/index.xml"
 
 [taxonomies]
   category = "categories"
@@ -146,11 +150,11 @@ enableEmoji = true
     title = "A collection"
     url = "/collection/"
     weight = 5
-  [[menu.header]]
-    name = "Outros"
-    title = "Others"
-    url = "/elements/"
-    weight = 6
+  #[[menu.header]]
+  #  name = "Outros"
+  #  title = "Others"
+  #  url = "/elements/"
+  #  weight = 6
 
   # Configure footer
   [[menu.footer]]

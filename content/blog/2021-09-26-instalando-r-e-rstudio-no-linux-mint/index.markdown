@@ -4,7 +4,7 @@ subtitle: Fácil.
 author: 'Ricardo Theodoro'
 date: '2021-09-26'
 slug: []
-categories: []
+categories: ["r", "rstudio", "linux", "mint"]
 tags: []
 ---
 
@@ -18,7 +18,7 @@ O objetivo desta postagem é ensinar a instalar o R e o RStudio no Linux Mint.
 
 
 
-# Instalando o R
+## Instalando o R
 
 O primeiro passo é instalar o R Base. Podemos fazer a instalação via terminal com os seguintes comandos (`ctrl+alt+t` para abrir o terminal):
 
@@ -41,7 +41,7 @@ O R também possui um repositório no Ubuntu, você pode tentar baixá-lo manual
 
 Você pode ter mais detalhes consultando o README completo da instalação em <https://cloud.r-project.org/bin/linux/ubuntu/fullREADME.html>
 
-# Instalando o RStudio
+## Instalando o RStudio
 
 O RStudio não possui um repositório para ser adicionado ao sistema, temos que fazer a instalação manual pelo site:
 

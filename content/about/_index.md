@@ -2,7 +2,7 @@
 cascade:
   headless: true
 description: |
-  Objetivo deste blog é compartilhar um pouco dos meus conhecimentos e experiência com R, Python e SQL
+  Objetivo deste blog é compartilhar um pouco dos meus conhecimentos e experiências
 show_header: true
 sidebar_left: false
 title: About

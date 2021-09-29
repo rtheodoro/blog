@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Aqui pretendo compartilhar um pouco de meus conhecimentos e experiências com pesquisas na àrea de economia e contabilidade sobre cooperativismo e programação voltada para análise de dados.
+description: Meu nome é Ricardo Theodoro, sou Economista com mestrado em Controladoria e Contabilidade, e trabalho como pesquisador no OBSCOOP/USP. Estudo cooperativas e aqui irei publicar conteúdo referente a programação em R, Python, SQL e LaTeX que tenho aprendido durante esta formação.
 image_left: true
 images:
 - img/capa_home.jpg
