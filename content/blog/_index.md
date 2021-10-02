@@ -16,7 +16,7 @@ show_author_byline: true
 show_post_date: true
 show_post_thumbnail: true
 sidebar:
-  author: The R Markdown Team @RStudio
+  author: rtheodoro
   description: "This is a fully featured blog that supports categories,\ntags, series,
     and pagination. Even this sidebar offers \na ton of customizations.\n\nCheck out
     the _index.md file in the /blog folder \nto edit this content. \n"
