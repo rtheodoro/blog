@@ -1,0 +1,48 @@
+---
+title: "Lei de Benford em Cooperativas de Crédito"
+subtitle: "Apresentação do artigo de minha dissertação no Seminário OBSCOOP/USP"
+excerpt: "Aqui eu falo um pouco do artigo da minha dissertação de mestrado onde aplico a Lei de Benford para dados financeiros das Cooperativas de Crédito Brasileiras na intenção de detectar a possível presença de comportamento oportunista do gestor."
+date: 2021-10-01
+date_end: ""
+show_post_time: false
+event: "Ciclo de Seminários OBSCOOP/USP (2020)"
+event_url: https://www.youtube.com/watch?v=Xx5siwXYwxM
+author: "Ricardo Theodoro"
+location: "Evento Online"
+draft: false
+# layout options: single, single-sidebar
+layout: single
+categories:
+- seminário
+links:
+- icon: youtube
+  icon_pack: fab
+  name: youtube
+  url: https://www.youtube.com/watch?v=Xx5siwXYwxM
+---
+
+## Descrição
+O seminário realizado no dia 28/09/2020 traz como a Lei de Benford, uma ferramenta da Estatística, pode ser usada para aprimorar o processo de auditoria das Cooperativas de Crédito. Os benefícios para o regulador e aos agentes responsáveis pelo monitoramento destas organizações é bastante explorado pelos debatedores.
+
+
+## Participantes
+
+Apresentador: 
+
+- Ricardo Theodoro (OBSCOOP/USP)
+
+Debatedores: 
+
+- Lúcio Faria (ex-Bacen e FGCoop)
+
+- Rodomarque Tavares Meira (Bacen)
+
+Mediador:
+
+- Prof. Dr. Davi Rogério de Moura Costa (Coordenador OBSCOOP/USP)
+
+## Gravação
+
+```{r, eval=TRUE, echo=FALSE}
+blogdown::shortcode("youtube", "Xx5siwXYwxM")
+```
