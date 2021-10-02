@@ -17,13 +17,12 @@ show_post_date: true
 show_post_thumbnail: true
 sidebar:
   author: rtheodoro
-  description: "This is a fully featured blog that supports categories,\ntags, series,
-    and pagination. Even this sidebar offers \na ton of customizations.\n\nCheck out
-    the _index.md file in the /blog folder \nto edit this content. \n"
+  description: "Postagens em que pretendo ensinar o que vou aprendendo com programação voltada para ciência de dados, seja em R, Python, Julia ou SQL. 
+  <p>Deixarei todos os scripts utilizados aqui disponíveis no Github."
   show_sidebar_adunit: true
-  text_link_label: Subscribe via RSS
+  text_link_label: O material utilizado estará disponível no Github
   text_link_url: /index.xml
-  title: A Sidebar for Your Thoughts
+  title: Sobre as postagens
 thumbnail_left: true
 title: Postagens
 ---

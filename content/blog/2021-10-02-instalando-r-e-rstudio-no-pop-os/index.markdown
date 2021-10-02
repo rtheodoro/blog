@@ -1,25 +1,24 @@
 ---
-title: Instalando R e RStudio no Linux Mint
-subtitle: 1 min. de leitura.
+title: Instalando R e RStudio no Pop!_OS
+subtitle: 2 min. de leitura.
 author: 'Ricardo Theodoro'
-date: '2021-09-26'
+date: '2021-10-02'
 slug: []
-categories: ["r", "rstudio", "linux", "mint"]
+categories: ["r", "rstudio", "linux", "pop_os"]
 tags: []
 ---
 
 
-O objetivo desta postagem é ensinar a instalar o R e o RStudio no Linux Mint. Os passos são bem simples e podem ser feitos via terminal ou interface gráfica.
+O objetivo desta postagem é ensinar a instalar o R e o RStudio no Pop!_OS. Os passos são bem simples e podem ser feitos via terminal ou interface gráfica.
 
-O mesmo procedimento pode, em teoria, ser realizado em qualquer distribuição baseada em Ubuntu.
-
+O mesmo procedimento pode, em teoria, ser realizado em qualquer distribuição Linux baseada em Ubuntu.
 
 
 
 
 ## Instalando o R
 
-O primeiro passo é instalar o R Base. Podemos fazer a instalação via terminal com os seguintes comandos (`ctrl+alt+t` para abrir o terminal):
+O primeiro passo é instalar o R Base. Podemos fazer a instalação via terminal com os seguintes comandos (`super+t` para abrir o terminal):
 
 
 ```bash
@@ -36,7 +35,12 @@ sudo add-apt-repository "deb https://cloud.r-project.org/bin/linux/ubuntu $(lsb_
 sudo apt install --no-install-recommends r-base r-base-dev
 ```
 
-O R também possui um repositório no Ubuntu, você pode tentar baixá-lo manualmente através da loja de aplicativos do Mint. Ou através do comando `sudo apt install r-base r-base-dev`.
+O R também possui um repositório no Ubuntu, você pode tentar baixá-lo manualmente através da loja de aplicativos, a Pop!_shop. Ou através do comando `sudo apt install r-base r-base-dev`. 
+
+Confira a versão instalada rodando o comando `R` no terminal.
+
+ATENÇÃO, no último passo pode acontecer de aparecer um erro sobre a `libicu66`. Neste caso, é necessário acessar <https://www.ubuntuupdates.org/package/core/focal/main/base/libicu66> e baixar a versão de acordo com seu sistema (32-bits ou 64-bits) na área de Downloads.
+
 
 Você pode ter mais detalhes consultando o README completo da instalação em <https://cloud.r-project.org/bin/linux/ubuntu/fullREADME.html>
 
