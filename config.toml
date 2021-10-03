@@ -110,6 +110,10 @@ enableEmoji = true
       icon_pack = "ai"
       url       = "http://lattes.cnpq.br/9903428973435024"
   [[params.social]]
+    icon      = "youtube" # icon name without the 'fa-'
+    icon_pack = "fab"
+    url       = "https://www.youtube.com/channel/UCDT5QYgse4tiHDm-DiD3x8w"
+  [[params.social]]
     icon      = "twitter" # icon name without the 'fa-'
     icon_pack = "fab"
     url       = "https://twitter.com/rxtheodoro"

@@ -14,7 +14,6 @@ O objetivo desta postagem é ensinar a instalar o R e o RStudio no Linux Mint. O
 O mesmo procedimento pode, em teoria, ser realizado em qualquer distribuição baseada em Ubuntu.
 
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, cache = TRUE, message = FALSE, warning = FALSE)
 ```

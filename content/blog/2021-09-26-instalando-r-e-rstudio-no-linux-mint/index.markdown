@@ -16,7 +16,6 @@ O mesmo procedimento pode, em teoria, ser realizado em qualquer distribuição b
 
 
 
-
 ## Instalando o R
 
 O primeiro passo é instalar o R Base. Podemos fazer a instalação via terminal com os seguintes comandos (`ctrl+alt+t` para abrir o terminal):
