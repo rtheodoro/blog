@@ -1,8 +1,8 @@
 ---
 date: "2019-02-25T13:38:41-06:00"
-description: Envie um e-mail para **rtheodoro@usp.br**
+description: Envie um e-mail para **rtheodoro@usp.br** <p>Ou através das redes
 draft: false
-formspree_form_id: https://formspree.io/forms/mdoyjdow
+formspree_form_id: https://formspree.io/f/mdoyjdow
 layout: split-right
 name: Contact Us Form
 show_poweredby_formspree: true
