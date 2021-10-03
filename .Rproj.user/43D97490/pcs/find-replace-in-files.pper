@@ -1,13 +1,13 @@
 {
     "dialog-state": {
-        "query": "A BLOG THAT WORKS",
+        "query": "SEE ALL",
         "path": "",
         "regex": false,
         "caseSensitive": false,
         "wholeWord": false,
         "filePatterns": [],
         "excludeFilePatterns": [],
-        "resultsCount": 2,
+        "resultsCount": 1,
         "errorCount": 0,
         "replaceErrors": "",
         "projectRelative": true
