@@ -8,6 +8,6 @@ headline: Bem-vind@!
 
 <!-- this is a subheadline -->
 
-Blog criado para compartilhar conhecimentos adquiridos em minhas pesquisas sobre cooperativas, mais específicamente sobre como tratar os dados e escrever artigos.
+Blog criado para compartilhar conhecimentos que adquiri durante a graduação, mestrado e trabalho como pesquisador na área de cooperativismo, nas linhas de contabilidade e economia.
 
-Para isso, utilizarei as linguagens R, Python, SQL e LaTeX.
+Mais específicamente sobre como tratar os dados e escrever artigos.
