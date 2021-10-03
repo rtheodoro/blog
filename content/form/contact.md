@@ -1,16 +1,14 @@
 ---
 date: "2019-02-25T13:38:41-06:00"
-description: This template has a **contact-us** form built right in. All you need
-  to do is add a valid recipient form-id to the front matter of this form page and
-  you're ready to receive submissions.
+description: Envie um e-mail para **rtheodoro@usp.br**
 draft: false
-formspree_form_id: id-from-formspree
+formspree_form_id: rtheodoro@usp.br
 layout: split-right
 name: Contact Us Form
 show_poweredby_formspree: true
 show_social_links: true
-submit_button_label: Send Message
-title: Contact
+submit_button_label: Enviar
+title: Contato
 type: form
 url: contact
 ---
