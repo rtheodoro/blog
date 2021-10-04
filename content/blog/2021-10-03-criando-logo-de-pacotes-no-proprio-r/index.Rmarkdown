@@ -1,0 +1,66 @@
+---
+title: Criando logo hexagonal de pacotes no próprio R
+subtitle: 2 min. de leitura.
+author: 'rtheodoro'
+date: '2021-10-03'
+slug: []
+categories: ["r", "imagem"]
+tags: []
+---
+
+
+Sabe aquelas logos de pacotes do R em formato hexagonal que o pessoal faz adesivos? Este post tem objetivo de ensinar você a criar um para o seu pacote mesmo sem entender nada de edição de imagens, utilizando apenas o R.
+
+O pacote `hexSticker` foi criado justamente para isso.
+
+
+## Exemplo de imagem
+Vamos imaginar que estou criando um pacote para buscar arquivos no seu computador. Vamos chamá-lo de `buscaR`.
+
+Primeiro, preciso de uma imagem que simbolize o seu pacote. Neste caso vou utilizar a seguine imagem:
+
+![](lupa.png)
+Peguei essa imagem em um banco de imagens gratuíto, mas esqueci de marcar o endereço :(
+Removi o fundo da imagem com o site: https://www.remove.bg/pt-br
+
+Agora precisamos instalar e carregar o pacote `hexSticker`.
+
+## Carregando o pacote
+
+```{r eval=FALSE, echo=T}
+
+install.packages("hexSticker")
+
+library(hexSticker)
+```
+
+## Parâmeros da função
+
+Feito isso, o próximo passo é chamar a função `sticker()`, apontar qual imagem você quer inserer no hexagono e qual o nome do pacote.
+
+```{r eval=FALSE, echo=T}
+sticker(subplot = "/home/usr/R/lupa.png", # Endereço da onde a imagem está
+        package = "buscaR",  # Nome que vai ser exibido na imagem
+        p_size = 23, # Tamanho da Fonte do nome do pacote
+        s_x = 1, s_y = .75, # Posição da imagem, eixo X e Y
+        s_width = .8, # Tamanho da imagem
+        h_fill = "#ca76a7", # Cor do fundo
+        h_color = "#b2026a", # Cor da borda,
+        filename = "/home/usr/R/featured_Resultado.png" ) # Onde a imagem será salva e o nome dela
+
+```
+
+Esse código vai gerar a seguinte imagem:
+
+![](featured_Resultado.png)
+
+
+## Outras dicas
+Para as cores de fundo e borda, podemos acessar este site: https://www.color-hex.com/
+
+Nele você escolhe as cores ele te da o código.
+
+Existem mais opções de configurações para você customizar seu logo hexagonal. Você pode consultá-las com `??sticker`.
+
+## Sobre o pacote
+No Github do pacote existem mais exemplos, como inserir um gráfico no lugar da imagem: https://github.com/GuangchuangYu/hexSticker
