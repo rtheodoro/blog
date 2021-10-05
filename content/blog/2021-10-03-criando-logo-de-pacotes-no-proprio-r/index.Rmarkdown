@@ -8,7 +8,6 @@ categories: ["r", "imagem"]
 tags: []
 ---
 
-
 Sabe aquelas logos de pacotes do R em formato hexagonal que o pessoal faz adesivos? Este post tem objetivo de ensinar você a criar um para o seu pacote mesmo sem entender nada de edição de imagens, utilizando o R.
 
 O pacote `hexSticker` foi criado justamente para isso.
@@ -29,7 +28,6 @@ Agora precisamos instalar e carregar o pacote `hexSticker`.
 ## Carregando o pacote
 
 ```{r eval=FALSE, echo=T}
-
 install.packages("hexSticker")
 
 library(hexSticker)

@@ -100,15 +100,15 @@ enableEmoji = true
   [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "www.linkedin.com/in/rtheodoro"
+      url       = "https://linkedin.com/in/rtheodoro"
   [[params.social]]
       icon      = "lattes" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "https://orcid.org/0000-0001-6741-5153"
+      url       = "http://lattes.cnpq.br/9903428973435024"
   [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "http://lattes.cnpq.br/9903428973435024"
+      url       = "https://orcid.org/0000-0001-6741-5153"
   [[params.social]]
     icon      = "youtube" # icon name without the 'fa-'
     icon_pack = "fab"
