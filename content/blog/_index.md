@@ -17,10 +17,9 @@ show_post_date: true
 show_post_thumbnail: true
 sidebar:
   author: rtheodoro
-  description: "Postagens em que pretendo ensinar o que vou aprendendo com programação voltada para ciência de dados, seja em R, Python, Julia ou SQL. 
-  <p>Deixarei todos os scripts utilizados aqui disponíveis no Github."
+  description: "Postagens em que pretendo ensinar o que vou aprendendo com programação voltada para ciência de dados, seja em R, Python, Julia ou SQL."
   show_sidebar_adunit: true
-  text_link_label: O material utilizado estará disponível no Github
+  text_link_label: Home
   text_link_url: /index.xml
   title: Sobre as postagens
 thumbnail_left: true
