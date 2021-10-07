@@ -6,8 +6,9 @@ Este projeto contém os scripts utilizados para a criação do meu site https://
 
 Fiquem à vontade para fazer o fork e utilizar como queiram. 
 
+Aceito sugestões de melhoria haha
 
 ## AGRADECIMENTO
 
-A Beatriz Mil que inspirou no layout https://beatrizmilz.com/
+A Beatriz Mil que inspirou no layout com o site https://beatrizmilz.com/
 
