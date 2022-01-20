@@ -129,10 +129,10 @@ enableEmoji = true
 
 [menu]
   # Configure header
-#  [[menu.header]]
-#        weight = 8
-#        identifier = "search"
-#        post = "search"
+  [[menu.header]]
+        weight = 8
+        identifier = "search"
+        post = "search"
   [[menu.header]]
     name = "Sobre"
     title = "Sobre mim"
@@ -184,12 +184,12 @@ enableEmoji = true
 
 # Tentando adicionar barra de pesquisa
 # Search index for lunr.js
-#[outputFormats.SearchIndex]
-#    mediaType = "application/json"
-#    baseName = "search"
+[outputFormats.SearchIndex]
+    mediaType = "application/json"
+    baseName = "search"
 # Hugo’s output control
-#[outputs]
-#    home = ["SearchIndex"]
+[outputs]
+    home = ["SearchIndex", "JSON"]
 
 # Lunr search
 
