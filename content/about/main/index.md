@@ -6,11 +6,13 @@ use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: Meu nome é Ricardo Theodoro, sou doutorando e possuo mestrado em Controladoria e Contabilidade pela USP/FEA-RP. 
-  Graduado em Ciências Econômicas, atualmente trabalho como pesquisador no Observatório do Cooperativismo da USP [(**OBSCOOP/USP**)](https://linktr.ee/obscoopusp), realizando pesquisas na área de **cooperativismo**, geralmente cooperativas de crédito ou agropecuárias, por uma visão econômica e contábil.
+  Graduado em Ciências Econômicas, atualmente trabalho como pesquisador no Observatório do Cooperativismo da USP <a href="https://linktr.ee/obscoopusp" target="_blank">(OBSCOOP/USP)</a>, realizando pesquisas na área de **cooperativismo**, geralmente estudando cooperativas de crédito e agropecuárias, por uma ótica econômica e contábil.
   
   
-  Também faço o tratamento dos dados, cuido da base de dados e escrevo artigos. Para isso utilizo as linguagens **R**, **Python**, **SQL** e **LaTeX**.
+  Para realizar as pesquisas, faço o tratamento dos dados, cuido da base de dados e escrevo artigos. Para isso utilizo as linguagens **R**, **Python**, **SQL** e **LaTeX**.
   
+  
+  Além das redes sociais acima, você também pode entrar em contato através do e-mail rtheodoro@usp.br.
   
 
 show_outro: true
