@@ -10,4 +10,3 @@ headline: Bem-vinde!
 
 Blog criado para compartilhar conhecimentos que adquiri durante minha carreira acadêmica, atualmente no doutorado e no trabalho como pesquisador na área de cooperativismo, nas linhas de contabilidade e economia.
 
-Mais específicamente sobre como tratar os dados e escrever artigos.
