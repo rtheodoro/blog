@@ -13,23 +13,23 @@ Hoje vou ensinar vocês a criarem um atalho em seu `RStudio` para já definir um
 O exemplo de `header` a ser criado, vai ser esse:
 
 ```r
-	#--------------------------------------------------------------------------#
-	#
-	# Nome do Script: 
-	#
-	# Objetivo:
-	#
-	# Autor: Ricardo Theodoro
-	# Email: rtheodoro@usp.br
-	# Data da criação: 20/09/2022
-	# 
-	#--------------------------------------------------------------------------#
-	#
-	# Notas:
-	#   
-	#--------------------------------------------------------------------------#
-	options(scipen = 6, digits = 4)
-	#--------------------------------------------------------------------------#
+#--------------------------------------------------------------------------#
+#
+# Nome do Script: 
+#
+# Objetivo:
+#
+# Autor: Ricardo Theodoro
+# Email: rtheodoro@usp.br
+# Data da criação: 20/09/2022
+# 
+#--------------------------------------------------------------------------#
+#
+# Notas:
+#   
+#--------------------------------------------------------------------------#
+options(scipen = 6, digits = 4)
+#--------------------------------------------------------------------------#
 ```
 
 Assim, com um único comando eu evito digitar todo esse texto.
