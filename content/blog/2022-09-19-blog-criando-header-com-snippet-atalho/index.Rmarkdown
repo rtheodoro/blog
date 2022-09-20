@@ -8,7 +8,7 @@ categories: ["r", "snippet", "atalhos", "rstudio"]
 tags: ["r", "rstudio", "snippet"]
 ---
 
-Hoje vou ensiar vocês a criarem um atalho em seu `RStudio` para já definir um `header` (cabeçalho) para o seu script, assim você evita ter que digitar várias vezes os mesmos textos sempre que criar um novo script.
+Hoje vou ensinar vocês a criarem um atalho em seu `RStudio` para já definir um `header` (cabeçalho) para o seu script, assim você evita ter que digitar várias vezes os mesmos textos sempre que criar um novo script.
 
 O exemplo de `header` a ser criado, vai ser esse:
 
