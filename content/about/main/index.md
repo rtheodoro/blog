@@ -5,8 +5,8 @@ number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
-intro: Meu nome é Ricardo Theodoro, sou doutorando e possuo mestrado em Controladoria e Contabilidade pela USP/FEA-RP. 
-  Graduado em Ciências Econômicas, atualmente trabalho como pesquisador no Observatório do Cooperativismo da USP <a href="https://linktr.ee/obscoopusp" target="_blank">(OBSCOOP/USP)</a>, realizando pesquisas na área de **cooperativismo**, geralmente estudando cooperativas de crédito e agropecuárias, por uma ótica econômica e contábil.
+intro: Meu nome é Ricardo Theodoro, sou doutorando e mestre em Controladoria e Contabilidade pela FEA-RP/USP. 
+  Graduado em Ciências Econômicas, atualmente trabalho como pesquisador no Observatório do Cooperativismo da USP <a href="https://linktr.ee/obscoopusp" target="_blank">(OBSCOOP/USP)</a>, realizando pesquisas sobre **cooperativismo**, geralmente estudando cooperativas de crédito e agropecuárias, por uma ótica econômica e contábil.
   
   
   Para realizar as pesquisas, faço o tratamento dos dados, cuido da base de dados e escrevo artigos. Para isso utilizo as linguagens **R**, **Python**, **SQL** e **LaTeX**.

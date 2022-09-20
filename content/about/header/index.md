@@ -8,5 +8,5 @@ headline: Bem-vinde!
 
 <!-- this is a subheadline -->
 
-Blog criado para compartilhar conhecimentos que adquiri durante minha carreira acadêmica, atualmente no doutorado e no trabalho como pesquisador na área de cooperativismo, nas linhas de contabilidade e economia.
+Blog criado para compartilhar conhecimentos que adquiri durante minha carreira acadêmica e profissional, atualmente no doutorado e trabalhando como pesquisador em temas que envolvem cooperativismo, nas áreas de contabilidade e economia.
 
