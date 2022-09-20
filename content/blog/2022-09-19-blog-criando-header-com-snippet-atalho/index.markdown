@@ -1,5 +1,5 @@
 ---
-title: Criando um snippet (atalho) para deader (cabeçalho)
+title: Criando um snippet (atalho) para header (cabeçalho)
 subtitle: 2 min. de leitura.
 author: 'rtheodoro'
 date: '2022-09-19'
