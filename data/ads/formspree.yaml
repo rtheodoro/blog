@@ -3,9 +3,4 @@ body:
   <a href="https://formspree.io" target="_blank">Formspree</a>.
 
 
-Host:
-_atproto
-Type:
-TXT
-Value:
-did=did:plc:x6spkvvf6k7a4epm6336pyeg
+
